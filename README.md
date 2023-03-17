@@ -4,7 +4,7 @@
 
 ### I am an Associate Software Engineer in a fintech organization in Lagos, Nigeria.
 
-#### My core work involves building the Frontend of web and mobile applications using JavaScript/TypeScript. My everyday frameworks are React, React Native and Angular.
+### My core work involves building the Frontend of web and mobile applications using JavaScript/TypeScript. My everyday frameworks are React, React Native and Angular.
 
 ##### I am familiar with Nodejs and Java.
 
