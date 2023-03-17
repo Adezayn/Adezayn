@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### You can call me Dolapo.
+#### You can call me Dolapo.
 
 #### I am an Associate Software Engineer in a fintech organization in Lagos, Nigeria.
 
